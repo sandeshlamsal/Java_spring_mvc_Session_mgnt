@@ -1,5 +1,7 @@
 # SessionMgntSpringMvc
 
+Session is managed by bean in spring, use @Scope("session") in model ,controller and autowire . 
+
 1.Model
 
 @Component
